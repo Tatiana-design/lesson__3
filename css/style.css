@@ -1,0 +1,70 @@
+@import "null.css";
+body {
+    background-color: black;
+}
+
+.logoname {
+    color: rgb(109, 187, 255);
+}
+
+.pink {
+    color: rgb(236, 22, 147);
+}
+
+.purple {
+    color: rgb(148, 42, 255);
+}
+
+p {
+    color: aliceblue;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+h2,
+h3 {
+    color: aliceblue;
+}
+
+a {
+    color: rgb(69, 162, 243);
+}
+
+h1 {
+    font-size: 46px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+.logoname-text {
+    margin-bottom: 20px;
+}
+
+.button {
+    font-size: 17px;
+    color: rgb(145, 247, 86);
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+.services>h2 {
+    color: rgb(245, 45, 138);
+}
+
+#branding,
+#web,
+#pack,
+#sotial {
+    color: rgb(148, 42, 255);
+}
